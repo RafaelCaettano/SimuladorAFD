@@ -8,7 +8,6 @@ Este é um projeto de simulador de Autômato Finito Determinístico (AFD) desenv
 - Criação e edição de AFDs, incluindo a definição do conjunto de estados, alfabeto, função de transição e estado inicial / de aceitação.
 - Simulação do processamento de uma sequência de entrada em um AFD.
 - Verificação de sequências de entrada para ver se são aceitas pelo AFD.
-- Exportação de AFDs para arquivos de texto.
 
 
 ## Requisitos de Sistema
@@ -22,11 +21,9 @@ Este é um projeto de simulador de Autômato Finito Determinístico (AFD) desenv
 1) Clone o repositório em seu ambiente de desenvolvimento local.
 2) Abra o projeto no Visual Studio.
 3) Compile e execute o projeto.
-4) Crie um novo AFD ou abra um AFD existente para edição.
-5) Adicione estados e defina as transições no AFD.
-6) Simule o processamento de uma sequência de entrada no AFD.
-7) Verifique se a sequência de entrada é aceita pelo AFD.
-8) Exporte o AFD para um arquivo de texto, se necessário.
+4) Adicione estados e defina as transições para o AFD.
+5) Simule o processamento de uma sequência de entrada no AFD.
+6) Verifique se a sequência de entrada é aceita pelo AFD.
 
 
 ## Contribuição
